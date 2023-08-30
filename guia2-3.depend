@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1693331516 source:c:\poo\guia2\guia2-3\fecha.cpp
+	"fecha.h"
+	<ctime>
+	<iostream>
+
+1693330370 c:\poo\guia2\guia2-3\fecha.h
+
+1693331963 source:c:\poo\guia2\guia2-3\emppleado.cpp
+	"Emppleado.h"
+	<string.h>
+	<iostream>
+	"fecha.h"
+
+1693331126 c:\poo\guia2\guia2-3\emppleado.h
+	"fecha.h"
+	<ctime>
+
+1693331126 source:c:\poo\guia2\guia2-3\main.cpp
+	<iostream>
+	<ctime>
+	"Emppleado.h"
+	"fecha.h"
+
